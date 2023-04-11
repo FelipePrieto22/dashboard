@@ -1,0 +1,238 @@
+Country/Region,ISO2,Continent
+Afghanistan,AF,Asia
+Albania,AL,Europe
+Algeria,DZ,Africa
+American Samoa,AS,Oceania
+Andorra,AD,Europe
+Angola,AO,Africa
+Anguilla,AI,North America
+Antigua and Barbuda,AG,North America
+Argentina,AR,South America
+Armenia,AM,Asia
+Aruba,AW,North America
+Australia,AU,Oceania
+Austria,AT,Europe
+Azerbaijan,AZ,Asia
+Bahamas,BS,North America
+Bahrain,BH,Asia
+Bangladesh,BD,Asia
+Barbados,BB,North America
+Belarus,BY,Europe
+Belgium,BE,Europe
+Belize,BZ,North America
+Benin,BJ,Africa
+Bermuda,BM,North America
+Bhutan,BT,Asia
+Bolivia,BO,South America
+Bosnia and Herzegovina,BA,Europe
+Botswana,BW,Africa
+Brazil,BR,South America
+British Indian Ocean Territory,IO,Asia
+British Virgin Islands,VG,North America
+Brunei,BN,Asia
+Bulgaria,BG,Europe
+Burkina Faso,BF,Africa
+Burundi,BI,Africa
+Cambodia,KH,Asia
+Cameroon,CM,Africa
+Canada,CA,North America
+Cape Verde,CV,Africa
+Cayman Islands,KY,North America
+Central African Republic,CF,Africa
+Chad,TD,Africa
+Chile,CL,South America
+China,CN,Asia
+Christmas Island,CX,Asia
+Cocos Islands,CC,Asia
+Colombia,CO,South America
+Comoros,KM,Africa
+Cook Islands,CK,Oceania
+Costa Rica,CR,North America
+Croatia,HR,Europe
+Cuba,CU,North America
+Curacao,CW,North America
+Cyprus,CY,Asia
+Czechia,CZ,Europe
+Democratic Republic of the Congo,CD,Africa
+Denmark,DK,Europe
+Djibouti,DJ,Africa
+Dominica,DM,North America
+Dominican Republic,DO,North America
+East Timor,TL,Asia
+Ecuador,EC,South America
+Egypt,EG,Africa
+El Salvador,SV,North America
+Equatorial Guinea,GQ,Africa
+Eritrea,ER,Africa
+Estonia,EE,Europe
+Eswatini,SZ,Africa
+Ethiopia,ET,Africa
+Falkland Islands,FK,South America
+Faroe Islands,FO,Europe
+Fiji,FJ,Oceania
+Finland,FI,Europe
+France,FR,Europe
+French Polynesia,PF,Oceania
+Gabon,GA,Africa
+Gambia,GM,Africa
+Georgia,GE,Asia
+Germany,DE,Europe
+Ghana,GH,Africa
+Gibraltar,GI,Europe
+Greece,GR,Europe
+Greenland,GL,North America
+Grenada,GD,North America
+Guam,GU,Oceania
+Guatemala,GT,North America
+Guernsey,GG,Europe
+Guinea,GN,Africa
+Guinea-Bissau,GW,Africa
+Guyana,GY,South America
+Haiti,HT,North America
+Honduras,HN,North America
+Hungary,HU,Europe
+Iceland,IS,Europe
+India,IN,Asia
+Indonesia,ID,Asia
+Iran,IR,Asia
+Iraq,IQ,Asia
+Ireland,IE,Europe
+Isle of Man,IM,Europe
+Israel,IL,Asia
+Italy,IT,Europe
+Jamaica,JM,North America
+Japan,JP,Asia
+Jersey,JE,Europe
+Jordan,JO,Asia
+Kazakhstan,KZ,Asia
+Kenya,KE,Africa
+Kiribati,KI,Oceania
+Kosovo,XK,Europe
+Kuwait,KW,Asia
+Kyrgyzstan,KG,Asia
+Laos,LA,Asia
+Latvia,LV,Europe
+Lebanon,LB,Asia
+Lesotho,LS,Africa
+Liberia,LR,Africa
+Libya,LY,Africa
+Liechtenstein,LI,Europe
+Lithuania,LT,Europe
+Luxembourg,LU,Europe
+Macao,MO,Asia
+Madagascar,MG,Africa
+Malawi,MW,Africa
+Malaysia,MY,Asia
+Maldives,MV,Asia
+Mali,ML,Africa
+Malta,MT,Europe
+Marshall Islands,MH,Oceania
+Mauritania,MR,Africa
+Mauritius,MU,Africa
+Mexico,MX,North America
+Micronesia,FM,Oceania
+Moldova,MD,Europe
+Monaco,MC,Europe
+Mongolia,MN,Asia
+Montenegro,ME,Europe
+Montserrat,MS,North America
+Morocco,MA,Africa
+Mozambique,MZ,Africa
+Myanmar,MM,Asia
+Namibia,NA,Africa
+Nauru,NR,Oceania
+Nepal,NP,Asia
+Netherlands,NL,Europe
+New Caledonia,NC,Oceania
+New Zealand,NZ,Oceania
+Nicaragua,NI,North America
+Niger,NE,Africa
+Nigeria,NG,Africa
+Niue,NU,Oceania
+Norfolk Island,NF,Oceania
+North Korea,KP,Asia
+North Macedonia,MK,Europe
+Northern Mariana Islands,MP,Oceania
+Norway,NO,Europe
+Oman,OM,Asia
+Pakistan,PK,Asia
+Palau,PW,Oceania
+Palestine,PS,Asia
+Panama,PA,North America
+Papua New Guinea,PG,Oceania
+Paraguay,PY,South America
+Peru,PE,South America
+Philippines,PH,Asia
+Pitcairn Islands,PN,Oceania
+Poland,PL,Europe
+Portugal,PT,Europe
+Puerto Rico,PR,North America
+Qatar,QA,Asia
+Republic of the Congo,CG,Africa
+Romania,RO,Europe
+Russia,RU,Europe
+Rwanda,RW,Africa
+Saint Barthelemy,BL,North America
+Saint Helena,SH,Africa
+Saint Kitts and Nevis,KN,North America
+Saint Lucia,LC,North America
+Saint Martin,MF,North America
+Saint Pierre and Miquelon,PM,North America
+Saint Vincent and the Grenadines,VC,North America
+Samoa,WS,Oceania
+San Marino,SM,Europe
+Sao Tome and Principe,ST,Africa
+Saudi Arabia,SA,Asia
+Senegal,SN,Africa
+Serbia,RS,Europe
+Seychelles,SC,Africa
+Sierra Leone,SL,Africa
+Singapore,SG,Asia
+Sint Maarten,SX,North America
+Slovakia,SK,Europe
+Slovenia,SI,Europe
+Solomon Islands,SB,Oceania
+Somalia,SO,Africa
+South Africa,ZA,Africa
+South Georgia and the South Sandwich Islands,GS,Antarctica
+South Korea,KR,Asia
+South Sudan,SS,Africa
+Spain,ES,Europe
+Sri Lanka,LK,Asia
+Sudan,SD,Africa
+Suriname,SR,South America
+Svalbard and Jan Mayen,SJ,Europe
+Swaziland,SZ,Africa
+Sweden,SE,Europe
+Switzerland,CH,Europe
+Syria,SY,Asia
+Taiwan,TW,Asia
+Tajikistan,TJ,Asia
+Tanzania,TZ,Africa
+Thailand,TH,Asia
+Timor-Leste,TL,Asia
+Togo,TG,Africa
+Tokelau,TK,Oceania
+Tonga,TO,Oceania
+Trinidad and Tobago,TT,North America
+Tunisia,TN,Africa
+Turkey,TR,Europe
+Turkmenistan,TM,Asia
+Turks and Caicos Islands,TC,North America
+Tuvalu,TV,Oceania
+Uganda,UG,Africa
+Ukraine,UA,Europe
+United Arab Emirates,AE,Asia
+United Kingdom,GB,Europe
+United States,US,North America
+Uruguay,UY,South America
+Uzbekistan,UZ,Asia
+Vanuatu,VU,Oceania
+Vatican City,VA,Europe
+Venezuela,VE,South America
+Vietnam,VN,Asia
+Wallis and Futuna,WF,Oceania
+Western Sahara,EH,Africa
+Yemen,YE,Asia
+Zambia,ZM,Africa
+Zimbabwe,ZW,Africa
